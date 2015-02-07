@@ -7,3 +7,9 @@ body {
         background-color: #8b0a50;
     }
 }
+
+@media screen and (max-width: 550px) {
+    body {
+        background-color: #458b74;
+    }
+}
