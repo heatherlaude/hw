@@ -2,19 +2,19 @@ body {
     background-color: #104e8b;
 }
 
-@media screen and (max-width: 1080px) {
+@media (max-width: 1080px) {
     body {
         background-color: #8b0a50;
     }
 }
 
-@media screen and (max-width: 550px) {
+@media (max-width: 550px) {
     body {
         background-color: #458b74;
     }
 }
 
-@media screen and (max-width: 400px) {
+@media (max-width: 400px) {
     body {
         background-color: #6959cd;
     }
