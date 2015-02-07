@@ -13,3 +13,9 @@ body {
         background-color: #458b74;
     }
 }
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color: #6959cd;
+    }
+}
